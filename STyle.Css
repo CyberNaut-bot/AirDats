@@ -113,7 +113,7 @@ nav .container .menu-btn {
 /* header */
 header {
     height: 100vh;
-    background: url(../Img/background-min.png) center no-repeat;
+    background: url(Img/background-min.png) center no-repeat;
     background-size: cover;
     position: relative;
 }
@@ -128,7 +128,7 @@ header::after {
 
 header::before {
     width: 100%;
-    background: url(../Img/clouds-min.png) center no-repeat;
+    background: url(Img/clouds-min.png) center no-repeat;
 
 }
 
